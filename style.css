@@ -1,0 +1,71 @@
+/*selector{
+	property : value ;
+}
+*/
+body,form,select,input,option {
+	color: dark;
+	text-align: center;
+background-color: #F9ED97;
+	line-height: 20px;
+	font-style: italic;
+		text-transform: uppercase;
+	line-height: 20px;
+	font-style: italic;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	/*background: url(ایران+خودرو.jpg);*/
+	background-clip: inherit;
+	background: url(https://www.touchpointhc.com/hubfs/5f6e93d250a6d04f4eae9f02_Backgrounds-WFU-thumbnail-%28size%29.jpg);
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6Hj-gGrW83AAUTw_4qU6OqA6MS_GQPDKjQ&usqp=CAU);
+
+}
+.websr{
+	border:solid 5px black;
+	transition: all 1s;
+
+}
+
+.websr:hover{
+	border:solid 7px white;
+	transform: scale(1.1);
+	background-color: red;
+}
+footer{
+	text-align: center;
+	transition: all 1s;
+	font-family: Baloo Bhaijaan 2;
+
+}
+footer:hover{
+	/*color: white;
+	background-color: black;*/
+	clear: both;
+	font-family: 'Amiri', serif;
+	font-family: 'Amiri', serif;
+font-family: 'Baloo Bhaijaan 2', cursive;
+/*font-family: 'Dancing Script', cursive;*/
+/*font-family: 'Edu TAS Beginner', cursive;*/
+/*font-family: 'IBM Plex Sans Arabic', sans-serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+	transform: scale(1.1);
+	color: black;
+	
+}
+*{
+	color: white;
+	text-align: center;
+
+}
+.coll{
+	
+	background-color: #0F2D6E;
+}
+.iop{
+	transition: all 1s;
+}
+.iop:hover{
+	transform: scale(1.1);
+}
+.ert{
+	color: white;
+}
